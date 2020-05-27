@@ -1,0 +1,36 @@
+commit f26611a9d88a1762bcb5ef05357db4ed70b61532
+Author: Shivam <shivams14021999@gmail.com>
+Date:   Wed May 27 16:50:08 2020 +0530
+
+    Create patch
+
+commit 340b5332b810664b9fc9581f37a0a89d0056158f
+Author: Shivam <shivams14021999@gmail.com>
+Date:   Wed May 27 16:46:39 2020 +0530
+
+    Add more topics
+
+commit 4064d28ead32c380372b6ce349360e1804726faf
+Author: Shivam <shivams14021999@gmail.com>
+Date:   Wed May 27 16:31:09 2020 +0530
+
+    Add more topics
+
+commit eca76679ed451bdf51165999ae29e8504711c883
+Author: Shivam <shivams14021999@gmail.com>
+Date:   Wed May 27 16:28:36 2020 +0530
+
+    Add topics through master
+
+commit f26b15f332a186a8110bdce88f8e4f085a59d396
+Merge: af45f18 e2443f1
+Author: Shivam <shivams14021999@gmail.com>
+Date:   Mon May 25 23:41:09 2020 +0530
+
+    Merge after resolving conflict
+
+commit af45f1816eaa3b2fa9625ffd18e467569cc69d8e
+Author: Shivam <shivams14021999@gmail.com>
+Date:   Mon May 25 23:40:12 2020 +0530
+
+    Modify git basics from master
