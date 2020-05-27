@@ -1,0 +1,21 @@
+From 340b5332b810664b9fc9581f37a0a89d0056158f Mon Sep 17 00:00:00 2001
+From: Shivam <shivams14021999@gmail.com>
+Date: Wed, 27 May 2020 16:46:39 +0530
+Subject: [PATCH] Add more topics
+
+---
+ git_basics.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/git_basics.txt b/git_basics.txt
+index 1dd3d78..eecc7ee 100644
+--- a/git_basics.txt
++++ b/git_basics.txt
+@@ -3,3 +3,4 @@ abc
+ 
+ Add topics through master branch
+ Git log
++Adding tags
+-- 
+2.24.1.windows.2
+
