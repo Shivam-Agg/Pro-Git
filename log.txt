@@ -35,3 +35,21 @@ Date:   Mon May 25 23:40:12 2020 +0530
 
     Modify git basics from master
 This file contains logs that are in master branch but not in conflict branch
+
+
+Using git shortlog to show all the commits after part1 release
+
+Shivam (12):
+      Delete temp2 file
+      Modify temp1 file
+      Modify temp1 file
+      Modify git basics file
+      Modify git basics from master
+      Merge after resolving conflict
+      Add topics through master
+      Add more topics
+      Add more topics
+      Create patch
+      Add log file
+      Add description to log file at end
+
