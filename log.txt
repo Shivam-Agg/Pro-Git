@@ -34,3 +34,4 @@ Author: Shivam <shivams14021999@gmail.com>
 Date:   Mon May 25 23:40:12 2020 +0530
 
     Modify git basics from master
+This file contains logs that are in master branch but not in conflict branch
