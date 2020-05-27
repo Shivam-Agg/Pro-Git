@@ -1,2 +1,6 @@
 abc
 
+
+Add to staging area
+
+Commit
