@@ -5,3 +5,4 @@ Add topics through master branch
 Git log
 Adding tags
 Interactive Staging
+Stashing
