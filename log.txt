@@ -98,3 +98,7 @@ c1d6fda HEAD@{28}: commit: Modify temp1 file
 42e3774 HEAD@{40}: commit: Add temporary files
 b29636f HEAD@{41}: commit: Add git basics file
 94d2226 HEAD@{42}: initial pull
+63acaf9 Modify temp1 file
+1d6a083 Modify temp1 in interactive staging
+6330059 Modify temp1 file
+c1d6fda Modify temp1 file
