@@ -53,3 +53,48 @@ Shivam (12):
       Add log file
       Add description to log file at end
 
+
+Adding reflog
+e2a5755 HEAD@{0}: commit: Add shortlog after release part1
+8a971ec HEAD@{1}: checkout: moving from temp to master
+417e906 HEAD@{2}: checkout: moving from master to temp
+8a971ec HEAD@{3}: commit: Add description to log file at end
+fac7e55 HEAD@{4}: commit: Add log file
+f26611a HEAD@{5}: checkout: moving from e2443f1b4a55e5d7d1bd4a646aa1853c42f24c1b to master
+e2443f1 HEAD@{6}: checkout: moving from master to origin/conflictBranch
+f26611a HEAD@{7}: checkout: moving from topicsBranch to master
+417e906 HEAD@{8}: checkout: moving from master to topicsBranch
+f26611a HEAD@{9}: commit: Create patch
+340b533 HEAD@{10}: commit: Add more topics
+4064d28 HEAD@{11}: commit: Add more topics
+eca7667 HEAD@{12}: commit: Add topics through master
+f26b15f HEAD@{13}: checkout: moving from topicsBranch to master
+417e906 HEAD@{14}: commit: Add topics
+f26b15f HEAD@{15}: checkout: moving from master to topicsBranch
+f26b15f HEAD@{16}: checkout: moving from conflictBranch to master
+e2443f1 HEAD@{17}: checkout: moving from master to conflictBranch
+f26b15f HEAD@{18}: commit (merge): Merge after resolving conflict
+af45f18 HEAD@{19}: commit: Modify git basics from master
+6330059 HEAD@{20}: checkout: moving from conflictBranch to master
+e2443f1 HEAD@{21}: commit: Modify git basics file
+6330059 HEAD@{22}: checkout: moving from master to conflictBranch
+6330059 HEAD@{23}: merge branch2: Fast-forward
+c1d6fda HEAD@{24}: checkout: moving from master to master
+c1d6fda HEAD@{25}: checkout: moving from branch2 to master
+6330059 HEAD@{26}: commit: Modify temp1 file
+c1d6fda HEAD@{27}: checkout: moving from master to branch2
+c1d6fda HEAD@{28}: commit: Modify temp1 file
+535238b HEAD@{29}: checkout: moving from branch2 to master
+95ee702 HEAD@{30}: commit: Add temp3 file
+535238b HEAD@{31}: checkout: moving from master to branch2
+535238b HEAD@{32}: merge trial: Fast-forward
+0b7c29a HEAD@{33}: checkout: moving from trial to master
+535238b HEAD@{34}: commit: Delete temp2 file
+0b7c29a HEAD@{35}: checkout: moving from master to trial
+0b7c29a HEAD@{36}: checkout: moving from trial2 to master
+0b7c29a HEAD@{37}: checkout: moving from trial to trial2
+0b7c29a HEAD@{38}: checkout: moving from master to trial
+0b7c29a HEAD@{39}: commit (amend): Add temporary files
+42e3774 HEAD@{40}: commit: Add temporary files
+b29636f HEAD@{41}: commit: Add git basics file
+94d2226 HEAD@{42}: initial pull
