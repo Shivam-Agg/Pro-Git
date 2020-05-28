@@ -2,3 +2,4 @@ Hello from temp1 file
 Hello from temp1 file in branch2
 Hello after a long time
 Hello while changes are stashed in other branch
+Hello again from master
